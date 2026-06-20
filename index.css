@@ -140,6 +140,7 @@ transition:.5s;
 .hero-btn:hover{
 
 transform:scale(1.1);
+color: gold;
 
 }
 
